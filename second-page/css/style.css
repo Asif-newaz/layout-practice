@@ -1,0 +1,148 @@
+body{
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    background-image: url(../images/dark-table.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.box-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    color: #fff;
+    height: 8vh;
+    width: 100vw;
+    background-color: #211F1F;
+}
+    
+.fa-bars{
+    margin-left: 25px;
+}
+
+.fa-envelope-square{
+    margin-right: 25px;
+}
+
+.icon{
+    height: 35px;
+    width: 35px;
+}
+
+.icon circle {
+    fill: #9E4C3C;
+}
+
+.second-box{
+    margin-top: 10vh;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* menubar completed here */
+
+.all-items{
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+    margin-top: 10vh;
+}
+
+.step-1{
+    display: flex;
+    justify-content: center;
+}
+.round-box-1{
+    background-color: #9E4C3C;
+}
+
+.round-box-2{
+    background-color: #73B878;
+}
+
+.round-box-3{
+    background-color: #547DB3;
+}
+
+
+.step-2{
+    display: flex;
+    justify-content: center;
+}
+
+.round-box-4{
+    background-color: #7C4DA2;
+}
+
+.round-box-5{
+    background-color: #B86332;
+}
+
+.round-box-6{
+    background-color: #619D8B;
+}
+
+
+.step-3{
+    display: flex;
+    justify-content: center;
+}
+
+.round-box-7{
+    background-color: #547DB3;
+}
+
+.round-box-8{
+    background-color: #A95342;
+}
+
+.round-box-9{
+    background-color: #3A485D;
+}
+
+.square-box{
+    text-align: center;
+}
+
+.round-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    color: #FFFFFF;
+    margin: 15px;
+}
+
+hr{
+    width: 80vw;
+    margin: 20px auto;
+}
+
+.bottom-icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5vh;
+}
+
+.fab{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: #9E4C3C;
+}
+
+.fa-facebook{
+    background-color: #45568E;
+}
+
+.fa-twitter-square{
+    background-color: #547DB3;
+}

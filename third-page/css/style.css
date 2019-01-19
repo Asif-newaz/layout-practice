@@ -69,12 +69,29 @@ body{
     background-size: cover;
 }
 
+/* Image set up completed here */
+
 .person-details{
     text-align: center;
     margin-top: 10vh;
 }
 
+.btn{
+    background-color: #D7556D;
+    color: #fffefe;
+    border: none;
+    /* text-align: center; */
+    text-decoration: none;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 45px;
+    outline: none;
+    font-weight: 550;
+    padding: 10px 25px;
+}
+
 .footer{
+    margin-top: 35px;
     display: flex;
     justify-content: space-around;
 }

@@ -132,17 +132,41 @@ hr{
 }
 
 .fab{
+
+}
+
+.facebook{
+    margin: 7.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 50px;
     width: 50px;
-    margin: 5px;
+    border-radius: 50%;
+    background-color: #45568E;
+    color: #ffffff;
+}
+
+.google{
+    margin: 7.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
     border-radius: 50%;
     background-color: #9E4C3C;
+    color: #ffffff;
 }
 
-.fa-facebook{
-    background-color: #45568E;
-}
-
-.fa-twitter-square{
+.twitter{
+    margin: 7.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
     background-color: #547DB3;
+    color: #ffffff;
 }
